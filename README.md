@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Salah Eldin Fikri</h1>
 <h3 align="center">Cs Student</h3>
 
+- 🌱 I’m currently learning **Cyber Security**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@0_mr_matrix_0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@0_mr_matrix_0" height="30" width="40" /></a>
