@@ -1,5 +1,6 @@
 <p align="center">
-  ![photo_٢٠٢٢-٠٩-٢٦_٢١-٣١-٤٩](https://user-images.githubusercontent.com/71356170/233540522-2d283952-bbaf-42b8-bf94-bcb62c512392.jpg)
+  ![photo_٢٠٢٢-٠٩-٢٦_٢١-٣١-٤٩](https://user-images.githubusercontent.com/71356170/233540618-761e42dd-6808-4089-9421-0786d6266a02.jpg)
+
 </p>
 
  
