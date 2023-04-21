@@ -2,9 +2,9 @@
   <img src="https://avatars.githubusercontent.com/u/1234567?v=4" width="150" height="150">
 </p>
 
-<p align="center"> 
-<h1> Hi there 👋, I'm SalahEldin Fikri! </h1>
-</p>
+ 
+<h1 align="center"> Hi there 👋, I'm SalahEldin Fikri! </h1>
+
 
 I'm a student and malware analyst with a passion for programming and problem solving. I'm proficient in the following languages and tools:
 
@@ -21,7 +21,7 @@ I'm a student and malware analyst with a passion for programming and problem sol
 </p>
 I use various tools such as:
 
-<p align="center"> <h1> Tools </h1>  </p>
+<h1 align="center"> Tools </h1>  
 <p align="center">
   <img src="https://img.shields.io/badge/-IDA%20Pro-030303?style=flat-square&logo=ida-pro&logoColor=white" />
   <img src="https://img.shields.io/badge/-Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" />
@@ -31,9 +31,9 @@ I use various tools such as:
   <img src="https://img.shields.io/badge/-PE%20View-FFA07A?style=flat-square&logoColor=white" />
 </p>
 
-<p align="center"> 
-<h1> Find me on the web 🌎 </h1>
-</p>
+
+<h1 align="center"> Find me on the web 🌎 </h1>
+
 <p align="center">
   <a href="https://twitter.com/0_Mr_MaTriX_0"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" /></a>
   <a href="https://www.facebook.com/profile.php?id=100009340171748"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" /></a>
