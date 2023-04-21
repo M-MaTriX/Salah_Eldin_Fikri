@@ -1,24 +1,27 @@
+<link href="/assets/styles.css" rel="stylesheet"></link>
+<h1 align="center"><img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" alt="hey" width="40"> Hey there,<br> I'm Salah Eldin Fikri</h1> 
 
- 
-<h1 align="center"> Hi there 👋, I'm SalahEldin Fikri! </h1>
+
+## <img src="https://img.icons8.com/fluency-systems-filled/48/000000/guest-male.png" width="30" alt="About me"/> About Me <img src="https://miro.medium.com/v2/resize:fit:600/1*c5SC76t7hfQM_g3JsFhFLQ.gif" width="290" align="right">
+* **Self-taught** Malware analysis.
+* **Cyber security enthusiast** .
+* Currently **student @Mansoura University**.
 
 
-### I'm a student and malware analyst with a passion for programming and problem solving. I'm proficient in the following languages and tools:
+----
+
 
 <h1 align="center"> Languages and Tools  </h>
-<p align="center">
-  <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/-Network-00BFFF?style=flat-square&logo=cisco&logoColor=white" />
-  <img src="https://img.shields.io/badge/-OS-0078D6?style=flat-square&logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Problem%20Solving-DC143C?style=flat-square&logo=hackerrank&logoColor=white" />
-</p>
 
-
-<h1 align="center"> Tools </h1>  
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+![Assembly](https://img.shields.io/badge/-Assembly-808080?style=flat-square&logo=assembly&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Network](https://img.shields.io/badge/-Network-0078D7?style=flat-square&logo=cisco&logoColor=white)
+![OS](https://img.shields.io/badge/-Operating%20Systems-0078D7?style=flat-square&logo=windows&logoColor=white)
+![Problem Solving](https://img.shields.io/badge/-Problem%20Solving-4d4d4d?style=flat-square)
 <p align="center">
   <img src="https://img.shields.io/badge/-IDA%20Pro-030303?style=flat-square&logo=ida-pro&logoColor=white" />
   <img src="https://img.shields.io/badge/-Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" />
@@ -34,9 +37,9 @@
 <p align="center">
   <a href="https://twitter.com/0_Mr_MaTriX_0"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" /></a>
   <a href="https://www.facebook.com/profile.php?id=100009340171748"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" /></a>
-<p align="center">
   <a href="https://www.linkedin.com/in/salah-eldin-fikri-1ab233218/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:salaheldin.fikrikamil@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+
 </p>
 Feel free to reach out to me on any of these platforms, I'd love to connect with you!
 
