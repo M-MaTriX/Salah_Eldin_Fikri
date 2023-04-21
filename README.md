@@ -3,9 +3,9 @@
 <h1 align="center"> Hi there 👋, I'm SalahEldin Fikri! </h1>
 
 
-I'm a student and malware analyst with a passion for programming and problem solving. I'm proficient in the following languages and tools:
+### I'm a student and malware analyst with a passion for programming and problem solving. I'm proficient in the following languages and tools:
 
-<p align="center"> # Languages and Tools  </p>
+<h1 align="center"> Languages and Tools  </h>
 <p align="center">
   <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
   <img src="https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white" />
@@ -16,7 +16,7 @@ I'm a student and malware analyst with a passion for programming and problem sol
   <img src="https://img.shields.io/badge/-OS-0078D6?style=flat-square&logo=windows&logoColor=white" />
   <img src="https://img.shields.io/badge/-Problem%20Solving-DC143C?style=flat-square&logo=hackerrank&logoColor=white" />
 </p>
-I use various tools such as:
+
 
 <h1 align="center"> Tools </h1>  
 <p align="center">
