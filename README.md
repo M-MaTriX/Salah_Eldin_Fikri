@@ -1,7 +1,3 @@
-<p align="center">
-  ![photo_٢٠٢٢-٠٩-٢٦_٢١-٣١-٤٩](https://user-images.githubusercontent.com/71356170/233540618-761e42dd-6808-4089-9421-0786d6266a02.jpg)
-
-</p>
 
  
 <h1 align="center"> Hi there 👋, I'm SalahEldin Fikri! </h1>
