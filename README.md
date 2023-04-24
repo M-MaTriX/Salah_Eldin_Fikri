@@ -3,8 +3,7 @@
 
 
 ## <img src="https://img.icons8.com/fluency-systems-filled/48/000000/guest-male.png" width="30" alt="About me"/> About Me <img src="https://miro.medium.com/v2/resize:fit:600/1*c5SC76t7hfQM_g3JsFhFLQ.gif" width="290" align="right">
-* **Self-taught** Malware analysis.
-* **Cyber security enthusiast** .
+* **Self-taught** Malware analyst.
 * Currently **student @Mansoura University**.
 
 
