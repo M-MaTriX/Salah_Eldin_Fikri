@@ -1,5 +1,5 @@
 <link href="/assets/styles.css" rel="stylesheet"></link>
-<h1 align="center"><img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" alt="hey" width="40"> Hey there,<br> I'm Salah Eldin Fikri</h1> 
+<h1 align="center"> Hey there,<br> I'm Salah Eldin Fikri</h1> 
 
 
 ## <img src="https://img.icons8.com/fluency-systems-filled/48/000000/guest-male.png" width="30" alt="About me"/> About Me <img src="https://miro.medium.com/v2/resize:fit:600/1*c5SC76t7hfQM_g3JsFhFLQ.gif" width="290" align="right">
