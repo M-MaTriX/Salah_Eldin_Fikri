@@ -36,7 +36,7 @@
 
 <p align="center">
   <a href="https://www.facebook.com/profile.php?id=100009340171748"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/salah-eldin-fikri-1ab233218/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/salaheldin-fikri-kamil-1ab233218/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:salaheldin.fikrikamil@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
 
 </p>
