@@ -22,6 +22,7 @@
 ![Network](https://img.shields.io/badge/-Network-0078D7?style=flat-square&logo=cisco&logoColor=white)
 ![OS](https://img.shields.io/badge/-Operating%20Systems-0078D7?style=flat-square&logo=windows&logoColor=white)
 ![Problem Solving](https://img.shields.io/badge/-Problem%20Solving-4d4d4d?style=flat-square)
+[![Dynamic DevOps Roadmap](https://devopshive.net/badges/dynamic-devops-roadmap.svg)](https://github.com/DevOpsHiveHQ/dynamic-devops-roadmap)
 <p align="center">
   <img src="https://img.shields.io/badge/-IDA%20Pro-030303?style=flat-square&logo=ida-pro&logoColor=white" />
   <img src="https://img.shields.io/badge/-Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" />
@@ -40,6 +41,7 @@
   <a href="mailto:salaheldin.fikrikamil@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
 
 </p>
+
 Feel free to reach out to me on any of these platforms, I'd love to connect with you!
 
 
